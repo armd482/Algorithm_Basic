@@ -1,2 +1,2 @@
 # Algorithm_Basic
-python(Naver Connect), Quiz code
+python(Naver Boostcourse), Quiz code
